@@ -138,3 +138,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Custom dataset folder
+/home/lautaro/Workspace/cursos/intro_pytorch/deep-learning-v2-pytorch/intro-to-pytorch/Cat_Dog_data
+/intro-to-pytorch/Cat_Dog_data
